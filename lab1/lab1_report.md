@@ -7,18 +7,20 @@ Author: Исайкин Евгений Дмитриевич
 Lab: Lab1
 Date of create: 28.02.2026
 Date of finished: 
+
 Изучение основ Docker:
 
 Установка Docker:
 
 Установить Docker Desktop (для Windows/Mac) или Docker Engine (для Linux)
-Проверить установку командой docker --version
+#Проверить установку командой docker --version
 <img width="365" height="93" alt="image" src="https://github.com/user-attachments/assets/8639715b-1405-4d3c-aec4-4fe64eea1b82" />
 
-Запустить тестовый контейнер: docker run hello-world
+#Запустить тестовый контейнер: docker run hello-world
 <img width="595" height="425" alt="image" src="https://github.com/user-attachments/assets/24ca1cb6-d53b-461f-9134-c9bed4610cc4" />
 
-Изучить базовые команды: docker images, docker ps, docker ps -a
+#Изучить базовые команды: docker images, docker ps, docker ps -a
+
 Работа с готовыми образами:
 
 Скачать образ Ubuntu: docker pull ubuntu:latest
