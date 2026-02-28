@@ -30,15 +30,14 @@ Date of finished:
 Смержите Pull Request и удалите ветку develop.
 <img width="709" height="288" alt="image" src="https://github.com/user-attachments/assets/7fda8e8f-c5e9-4a01-83cd-189d8efc94b8" />
 <img width="685" height="659" alt="image" src="https://github.com/user-attachments/assets/ba9ed5a1-a912-48d6-872d-84f4fe237458" />
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
 
-![Uploading image.png…]()
+<img width="470" height="401" alt="image" src="https://github.com/user-attachments/assets/8dfde62a-6d1c-4cb5-876d-70594ab5d2ee" />
 
-![Uploading image.png…]()
+<img width="439" height="653" alt="image" src="https://github.com/user-attachments/assets/cc98dfc8-96c8-481d-8e29-cc67f1dafafc" />
 
-![Uploading image.png…]()
+<img width="445" height="485" alt="image" src="https://github.com/user-attachments/assets/7573eb21-1f81-49ff-8041-a1f08c7db93c" />
 
-![Uploading image.png…]()
+
+
+
 
