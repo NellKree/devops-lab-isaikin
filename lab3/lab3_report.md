@@ -83,4 +83,6 @@ Create → Dashboard → Add visualization
 
 ## Создать несколько графиков для разных метрик (CPU, память, диск)
 <img width="1150" height="616" alt="image" src="https://github.com/user-attachments/assets/6d004b03-9d5c-4186-9bb9-c06a16bf3b81" />
+<img width="1157" height="288" alt="image" src="https://github.com/user-attachments/assets/b26b4dc4-50e7-4629-b2fb-be5010ead0d7" />
+
 
