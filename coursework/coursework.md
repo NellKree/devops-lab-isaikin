@@ -59,6 +59,3 @@ Date of finished:
 <img width="382" height="219" alt="image" src="https://github.com/user-attachments/assets/a85f02eb-0df1-41e3-9a57-ca13ad48d102" />
 
 <img width="238" height="68" alt="image" src="https://github.com/user-attachments/assets/f6de49cd-3dee-4008-98b2-1b0b241c4803" />
-
-<img width="198" height="75" alt="image" src="https://github.com/user-attachments/assets/6649ac2e-fc82-4e01-a8be-9fc73d9c037e" />
-<img width="719" height="395" alt="image" src="https://github.com/user-attachments/assets/89436094-f205-4983-89a8-78361e510c3b" />
