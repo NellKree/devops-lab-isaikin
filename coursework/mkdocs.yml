@@ -1,7 +1,7 @@
 site_name: Моё Персональное Пространство
 site_description: Персональный сайт-визитка и портфолио проектов
 site_author: Eugene Isaikin
-# site_url:
+site_url: https://nellkree.github.io/devops-lab-isaikin/
 
 # Тема оформления - Material
 theme:
