@@ -1,0 +1,56 @@
+site_name: Моё Персональное Пространство
+site_description: Персональный сайт-визитка и портфолио проектов
+site_author: Eugene Isaikin
+# site_url:
+
+# Тема оформления - Material
+theme:
+  name: material
+  palette:
+    # Режим по умолчанию (светлая тема)
+    - scheme: default
+      primary: orange
+      accent: blue-grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Тёмная тема (переключается по кнопке в шапке)
+    - scheme: slate
+      primary: deep-orange
+      accent: light-green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+plugins:
+  - blog
+  - search:
+      lang: ru
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/NellKree
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/euiskn
+
+copyright: Copyright &copy; 2026 Eugene Isaikin
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc
+nav:
+  - Главная: index.md
+  - О себе: about.md
+  - Достижения: achievements.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
