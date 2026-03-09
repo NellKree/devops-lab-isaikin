@@ -17,10 +17,11 @@ Date of finished:
 
 - Настроены site_name, site_description, site_author, site_url
 - Добавлена тема Material с features
-- Выбрана цветовая схема: primary orange, accent blue-grey
+- Выбрана цветовая схема: primary orange, accent blue-grey и тёмная тема: primary: deep-orange accent: light-green
 - Настроена навигация по разделам: Главная, О себе, Проекты, Контакты, Достижения
 
 **Этап 3: Создание контента**
+
 Созданы 5 страниц в папке docs
 1. index.md - Главная  
 2. about.md - О себе  
